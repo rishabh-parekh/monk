@@ -1,8 +1,9 @@
 ################################### Default Configuration ############################
-baseurl = "https://rishabh-parekh.github.io/monk"
+baseurl = "https://rishabh-parekh.github.io/monk/"
 languageCode = "en"
 title = "Monk Yogurt"
 theme = "vex-hugo"
+
 
 #################################### Plugins ##########################################
 [params.plugins]

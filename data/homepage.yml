@@ -4,21 +4,21 @@ banner:
     title : "Believe in Technology, Make the change"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
     image : "images/yogurt.png"
-    button: "Buy Now With $1.99"
+    button: "Buy Now With $5.99"
     
 ############################## product ###########################
 product:
-    name : "Smart watch"
-    image : "images/watch.png"
-    price : "199"
-    colors : ["black","white","gray"]
-    sizes : ["small","medium","large"]
+    name : "Monk Yogurt"
+    image : "images/yogurt.png"
+    price : "5.99"
+    flavors : ["strawberry","blueberry","vanilla"]
+    sizes : ["4oz"]
 
 ############################# Feature ############################
 features:
     enable : true
     title : "Our Core Features"
-    image : "images/watch-2.png"
+    image : "images/yogurt.png"
   
     # feature at the left of the image
     leftSide:
@@ -58,18 +58,17 @@ features:
 ############################# promo ############################
 promo:
     enable : true
-    image : "images/watch.png"
-    title : "Designed by professional , the benefit for creative gigs"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-              nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
+    image : "images/steph.png"
+    title : "Designed for athletes, for maximum energy"
+    content : "Protein is essential to our health. It acts as building blocks to nearly everything in our body—bones, muscles, skin, hair, and nails. 
               <br><br>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+              Fortified with prebiotics and a 20 million-spore probiotic, our milk protein is gentle on the stomach + works fast to boost energy levels and repair sore muscles.."
   
 
 ############################# About Product #######################
 aboutProduct:
     enable : true
-    title : "Why Choose Apple Watch"
+    title : "Why Choose Monk"
     items:
       # about product item loop
       - image : "images/showcase/showcase-4.png"
@@ -96,7 +95,7 @@ aboutProduct:
 ############################## Testimonial ##########################
 testimonial:
     enable : true
-    title : "Watch Review"
+    title : "Customer Testimonials"
     testimonialItem:
       # testimonial item loop
       - name : "Rishabh Parekh"
