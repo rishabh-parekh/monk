@@ -17,7 +17,7 @@ product:
 ############################# Feature ############################
 features:
     enable : true
-    title : "Our Core Features"
+    title : "Our Yogurt Qualities"
     image : "images/yogurt.png"
   
     # feature at the left of the image
