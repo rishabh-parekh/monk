@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://www.example.com/"
+baseurl = "https://rishabh-parekh.github.io/monk"
 languageCode = "en"
 title = "Monk Yogurt"
 theme = "vex-hugo"
